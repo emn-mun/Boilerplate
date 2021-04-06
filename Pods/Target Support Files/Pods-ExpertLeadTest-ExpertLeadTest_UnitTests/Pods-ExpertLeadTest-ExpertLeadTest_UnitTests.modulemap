@@ -1,0 +1,6 @@
+framework module Pods_ExpertLeadTest_ExpertLeadTest_UnitTests {
+  umbrella header "Pods-ExpertLeadTest-ExpertLeadTest_UnitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

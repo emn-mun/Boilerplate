@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-ExpertLeadTest-ExpertLeadTest_UnitTests/Pods-ExpertLeadTest-ExpertLeadTest_UnitTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxAtomic/RxAtomic.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework
+${BUILT_PRODUCTS_DIR}/RxBlocking/RxBlocking.framework
+${BUILT_PRODUCTS_DIR}/RxTest/RxTest.framework
