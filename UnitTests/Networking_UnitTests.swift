@@ -14,7 +14,7 @@ class NetworkTests : XCTestCase {
     private let result: String = """
     {
         "token": "fdsgegs3r43f34",
-        "message": "Welcome to ExpertLead",
+        "message": "Welcome",
     }
     """
 
@@ -73,7 +73,7 @@ class NetworkTests : XCTestCase {
 
         // Then
         XCTAssertEqual(response.token, "fdsgegs3r43f34")
-        XCTAssertEqual(response.message, "Welcome to ExpertLead")
+        XCTAssertEqual(response.message, "Welcome")
     }
 
 }
